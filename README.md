@@ -1,9 +1,8 @@
 
-# VITAFOOD MOBILE RESTAURANT
+# UDH
 
 ## Authors
 
-- [@alankard](https://www.github.com/alankard)
 - [@FreddyCarrillo](https://www.github.com/FreddyCarrillo)
 
 ## Installation
